@@ -1,0 +1,32 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "HTML desde cero",
+            "image": "https://drupal.ed.team/sites/default/files/styles/medium/public/courses/images/HTML-2018.jpg?itok=Gyvm-W9t",
+            "price": 20,
+            "profesor": "Alvaro Felipe"
+        },
+        {
+            "id": 2,
+            "title": "CSS desde cero",
+            "image": "https://drupal.ed.team/sites/default/files/styles/medium/public/courses/images/css-poster_1.jpg?itok=VUK9BKuY",
+            "price": 30,
+            "profesor": "Alvaro Felipe"
+        },
+        {
+            "id": 3,
+            "title": "GO desde cero",
+            "image": "https://drupal.ed.team/sites/default/files/styles/medium/public/courses/images/go_0.jpg?itok=k2amLhrN",
+            "price": 50,
+            "profesor": "Alexys Lozada"
+        },
+        {
+            "id": 4,
+            "title": "Drupal desde cero",
+            "image": "https://drupal.ed.team/sites/default/files/styles/medium/public/courses/images/drupal-poster-720_3.jpg?itok=e93ErhMN",
+            "price": 40,
+            "profesor": "Beto Quiroga"
+        }
+    ]
+}
